@@ -2,7 +2,7 @@
 
 This is a landing page for a dog shelter website where all available dogs for sale are listed.
 
-The page include three diffrent sections:
+The page include three different sections:
 
 1.  `The header`
 1.  `The body`
